@@ -21,16 +21,6 @@ Problem Statement
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-Business recommendation to reduce the Churn by providing Promotional offers
-- Free calls across the nation scheme
-- Provide special offers
-- OTT Subscription offers
-- Add-on card offers
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
 ## Technologies Used
 - Python Programming
 - NumPy objects to create arrays/metrics to apply DL/ML models
@@ -44,16 +34,23 @@ Business recommendation to reduce the Churn by providing Promotional offers
 
 <!-- As the library versions keep on changing, it is recommended to mention the version of the library used in this project -->
 
+## Conclusions
+Business recommendation to reduce the Churn by providing Promotional offers
+- Free calls across the nation scheme
+- Provide special offers
+- OTT Subscription offers
+- Add-on card offers
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 ## Acknowledgements
 I want to credit upGrad for the Master of Science in Machine Learning and Artificial Intelligence (AI/ML) degree alongside IIIT-Bangalore, and LJMU, UK
 - This project was inspired by all the Professors who trained us during the Linear Regression module, namely
   - G. Srinivasaraghavan - Professor, IIIT-B
   - Dinesh J Babu - Professor, IIIT-B
 
-
 ## Contact
 Created by [@rajaravisekara] - feel free to contact me, Raja - Sr Architect - AI Cloud
-
 
 <!-- Optional -->
 <!-- ## License -->
